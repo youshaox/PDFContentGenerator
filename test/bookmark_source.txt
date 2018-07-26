@@ -1,8 +1,3 @@
-[meta]
-page_offset = 11
-
-目录@-5
-【第一篇 开发基础】@1
 第1章 Eclipse平台简介@1
     1.1 Eclipse集成开发环境（IDE）介绍@2
     1.2 什么是Eclipse@9
