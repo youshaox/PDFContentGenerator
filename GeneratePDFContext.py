@@ -14,7 +14,7 @@ sys.setdefaultencoding('utf-8')
 """
 def main():
     pdf_handler = MyPDFHandler('./input.pdf',mode = mode.NEWLY)
-    pdf_handler.add_bookmarks_by_read_txt('./bookmark_meta',page_offset = 16)
+    pdf_handler.add_bookmarks_by_read_txt('./bookmark_meta', page_offset = 13)
     pdf_handler.save2file('./output.pdf')
 
 if __name__ == '__main__':
